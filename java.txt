@@ -1,0 +1,6 @@
+<!-->
+			var image1=new image()
+			image1.src="Aj.jpg"
+			var image1=new image()
+			image2.src="alex.jpg"
+			//--> 

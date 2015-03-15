@@ -1,0 +1,91 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+#h1{
+	display:inline-block;
+	font: 400 100px/1.0 'Just Another Hand', Helvetica, sans-serif;
+	color: Black;
+	width:450px;
+  }	
+h2{
+	line-height:2 em, bold 20px;
+	font: bold 20px Tahoma;
+}
+header, section, footer, aside, nav, article, hgroup{
+	display:block;
+}
+body{
+	text-align:center;
+	
+}
+#big_wrapper{
+	display:block;
+	width:1000px;
+	margin:20px auto;
+	text-align:left;
+}
+#big_tuna{
+	display:inline-block;
+	left:1080px;
+	width:90px;
+	border:none;
+	text-align:left;
+	position:absolute;
+}
+#top_header{
+	background:Mediumslateblue;
+	padding:2px;
+	border-radius:25px;
+}
+#top_menu{
+	background:blue;
+	font:white;
+	border-radius:25px;
+	
+}
+#top_menu li{
+	display:inline-block;
+	list-style:none;
+	padding:10px;
+	font:bold 20px Tahoma, solid black;
+}
+#main_section{
+	float:left;
+	width:600px;
+	margin:30px;
+}
+#big_fish{
+	display:inline-block;
+	left:886px;
+	width:200px;
+	border:none;
+	text-align:left;
+	position:absolute;
+	background:blue;
+	border-radius:25px;
+	padding:20px;
+	margin:30px;
+}
+#the_footer{
+	clear:both;
+	text-align:center;
+}
+li:link{color:red;
+text-decoration:none;}
+li:hover{background-color:white;
+color:black}
+
+
+
+
+
+
+
+
+
+
+
+
+

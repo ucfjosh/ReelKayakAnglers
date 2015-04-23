@@ -1,0 +1,96 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+#h1{
+	display:inline-block;
+	font: 400 100px/1.0 'Just Another Hand', Chalkboard, sans-serif;
+	color: Black;
+	width:450px;
+  }	
+h2{
+	line-height:2 em, bold 20px;
+	font: bold 20px Chalkboard;
+}
+header, section, footer, aside, nav, article, hgroup{
+	display:block;
+}
+body{
+	text-align:center;
+	
+}
+#big_wrapper{
+	display:block;
+	width:1000px;
+	margin:20px auto;
+	text-align:left;
+}
+#big_tuna{
+	display:inline-block;
+	left:1080px;
+	width:90px;
+	border:none;
+	text-align:left;
+	position:absolute;
+}
+#top_header{
+	background:Mediumslateblue;
+	padding:2px;
+	border-radius:25px;
+}
+#top_menu{
+	background:blue;
+	font:white;
+	border-radius:25px;
+	
+}
+#top_menu li{
+	display:inline-block;
+	list-style:none;
+	padding:10px;
+	font:bold 20px Tahoma, solid black;
+}
+#main_section{
+	float:left;
+	width:600px;
+	margin:30px;
+	position:absolute;
+	text-align:left;
+	right:670px;
+}
+#fish{
+	display:inline-block;
+	border: none;
+	border-radius:25px;
+	position:absolute;
+	text-align:left;
+}
+#big_fish{
+	display:inline-block;
+	left:886px;
+	width:200px;
+	border:none;
+	text-align:left;
+	position:absolute;
+	background:blue;
+	border-radius:25px;
+	padding:20px;
+	margin:30px;
+}
+#the_footer{
+	 width: 75%;
+        height: 80px;
+        padding: 1px;
+        -moz-border-radius:5px;
+        border-radius: 35px;
+        position: fixed;
+        bottom: 0;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+}
+li:link{color:red;
+text-decoration:none;}
+li:hover{background-color:white;
+color:black}
